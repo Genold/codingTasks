@@ -3,8 +3,8 @@ Task name- Sentiment Analysis.
 This is coding Task 26 - Natural Language Processing. The aim of the task is to take Amazon product reviews & using a library called spaCy, analyse the sentiment of the review to see if the computer can determine if it's a positive, negative or neutral review. 
 
 Table of contents:
-Installation guide
-Usage
+Installation guide,
+Usage,
 Credits
 
 Installation guide: 
